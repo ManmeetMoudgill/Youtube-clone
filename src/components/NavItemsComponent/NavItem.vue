@@ -18,7 +18,7 @@ export default {
 
 <style scoped>
 .navItemDiv{
-    border: 2px solid red;
+    
     padding-left: 0px;
     align-items: center;
     padding-top: 8px;
