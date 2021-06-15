@@ -1,3 +1,4 @@
+/* copy beanch */
 <template>
     <div class="container-fluid flex-grow-1 CenterPartDiv">
         <CenterNavbar />
