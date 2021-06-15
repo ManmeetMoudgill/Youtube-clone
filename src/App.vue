@@ -1,14 +1,26 @@
 <template>
+<div class="container-fluid">
+
    <Header />
+   <div class="container-fluid d-flex">
+
+   <LeftNavbar />
+   <CenterPartDiv/>
+   </div>
+</div>
 </template>
 
 <script>
 
 import Header from './components/Header.vue'
+import LeftNavbar from './components/LeftNavbar.vue'
+import CenterPartDiv from './components/CenterPartDiv.vue'
 export default {
   name: 'App',
   components: {
-    Header
+    Header,
+    LeftNavbar,
+    CenterPartDiv
   }
 }
 </script>
