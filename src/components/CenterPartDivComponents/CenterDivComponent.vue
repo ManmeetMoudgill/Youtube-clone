@@ -1,5 +1,5 @@
 <template>
-    <div class="container d-flex flex-wrap flex-column my-2  MainDiv">
+    <div class="container d-flex align-items-center flex-column">
         <slot></slot>
 
     </div>

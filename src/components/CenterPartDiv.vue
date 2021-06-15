@@ -2,127 +2,36 @@
 <template>
     <div class="container-fluid flex-grow-1 CenterPartDiv">
         <CenterNavbar />
-        <div class="container-fluid d-flex">
-
-
+       
 <!-- first div -->
         <CenterDivComponent>
-            <div class="container container-first-image">
+            <div class="container d-flex container-first-image">
                 <img class="image-first-div" src="../assets/yoga.jpg" alt="Yoga">
             </div>
 
             <!-- second container
              -->
-            <div class="container-fluid d-flex align-items-center container-second">
-                <img id="img" class=" logo style-scope yt-img-shadow" alt="Avatar image" height="40" width="40" src="https://yt3.ggpht.com/yti/ANoDKi6Q83GGUGLCthNtL56hyUE78X-IlTf0yxaKgA=s88-c-k-c0x00ffffff-no-rj-mo">
-               <div class=" container-fluid d-flex justify-content-start flex-column">
-                   <div class="upperDiv">
-                    <h5 class="text-dark">Bodybuilding show</h5>
-
-                   </div>
-                   <div class="lowerDiv d-flex flex-column align-items-center justify-content-start">
-
-                    <h6 class="font-size text-dark mx-2 text-left">Manmeet Vlogs</h6>
-                    <div class="container d-flex">
-                     <h6 class="font-size text-dark mx-1">1M Views °</h6>
-                     <h6 class="font-size text-dark  ">2 Days Ago</h6>
-                    </div>
-                   </div>
+            <div class="container-fluid mx -0 my-0 d-flex align-items-stretch container-second">
+                <!-- left part div -->
+                <div class="left-part">
+                    <img id="img" class="style-scope yt-img-shadow round-image" alt="Avatar image" height="50" width="50" src="https://yt3.ggpht.com/yti/ANoDKi6Q83GGUGLCthNtL56hyUE78X-IlTf0yxaKgA=s88-c-k-c0x00ffffff-no-rj-mo">
                 </div>
-              
+                <!-- right part div -->
+                <div class="right-part">
+                    <h4 class="text-dark"><a href="" class="text-dark anchor">Mens's Pyhisque</a></h4>
+                    <div class="right-bottom-part">
+                        <h6 class="text-dark text-align-left">Manmeet</h6>
+                        <div class="container d-flex align-items-center justify-content-between">
+                        <h6 class="text-dark">1M Views </h6><h6 class="text-dark"> 7 Days Ago</h6>
+
+                        </div>
+                    </div>
+                </div>
             </div>
         </CenterDivComponent>  
-
-
-     <!-- Second Div -->
-     
-        <CenterDivComponent>
-            <div class="container container-first-image">
-                <img class="image-first-div" src="../assets/yoga.jpg" alt="Yoga">
-            </div>
-
-            <!-- second container
-             -->
-            <div class="container-fluid d-flex align-items-center container-second">
-                <img id="img" class=" logo style-scope yt-img-shadow" alt="Avatar image" height="40" width="40" src="https://yt3.ggpht.com/yti/ANoDKi6Q83GGUGLCthNtL56hyUE78X-IlTf0yxaKgA=s88-c-k-c0x00ffffff-no-rj-mo">
-               <div class=" container-fluid d-flex justify-content-start flex-column">
-                   <div class="upperDiv">
-                    <h5 class="text-dark">Bodybuilding show</h5>
-
-                   </div>
-                   <div class="lowerDiv d-flex flex-column align-items-center justify-content-start">
-
-                    <h6 class="font-size text-dark mx-2 text-left">Manmeet Vlogs</h6>
-                    <div class="container d-flex">
-                     <h6 class="font-size text-dark mx-1">1M Views °</h6>
-                     <h6 class="font-size text-dark  ">2 Days Ago</h6>
-                    </div>
-                   </div>
-                </div>
-              
-            </div>
-        </CenterDivComponent>  
-
-
-   <!-- Third Div -->
-   
-        <CenterDivComponent>
-            <div class="container container-first-image">
-                <img class="image-first-div" src="../assets/yoga.jpg" alt="Yoga">
-            </div>
-
-            <!-- second container
-             -->
-            <div class="container-fluid d-flex align-items-center container-second">
-                <img id="img" class=" logo style-scope yt-img-shadow" alt="Avatar image" height="40" width="40" src="https://yt3.ggpht.com/yti/ANoDKi6Q83GGUGLCthNtL56hyUE78X-IlTf0yxaKgA=s88-c-k-c0x00ffffff-no-rj-mo">
-               <div class=" container-fluid d-flex justify-content-start flex-column">
-                   <div class="upperDiv">
-                    <h5 class="text-dark">Bodybuilding show</h5>
-
-                   </div>
-                   <div class="lowerDiv d-flex flex-column align-items-center justify-content-start">
-
-                    <h6 class="font-size text-dark mx-2 text-left">Manmeet Vlogs</h6>
-                    <div class="container d-flex">
-                     <h6 class="font-size text-dark mx-1">1M Views °</h6>
-                     <h6 class="font-size text-dark  ">2 Days Ago</h6>
-                    </div>
-                   </div>
-                </div>
-              
-            </div>
-        </CenterDivComponent>       
-    <!-- Fourth Div -->
-
-        <CenterDivComponent>
-            <div class="container container-first-image">
-                <img class="image-first-div" src="../assets/yoga.jpg" alt="Yoga">
-            </div>
-
-            <!-- second container
-             -->
-            <div class="container-fluid d-flex align-items-center container-second">
-                <img id="img" class=" logo style-scope yt-img-shadow" alt="Avatar image" height="40" width="40" src="https://yt3.ggpht.com/yti/ANoDKi6Q83GGUGLCthNtL56hyUE78X-IlTf0yxaKgA=s88-c-k-c0x00ffffff-no-rj-mo">
-               <div class=" container-fluid d-flex justify-content-start flex-column">
-                   <div class="upperDiv">
-                    <h5 class="text-dark">Bodybuilding show</h5>
-
-                   </div>
-                   <div class="lowerDiv d-flex flex-column align-items-center justify-content-start">
-
-                    <h6 class="font-size text-dark mx-2 text-left">Manmeet Vlogs</h6>
-                    <div class="container d-flex">
-                     <h6 class="font-size text-dark mx-1">1M Views °</h6>
-                     <h6 class="font-size text-dark ">2 Days Ago</h6>
-                    </div>
-                   </div>
-                </div>
-              
-            </div>
-        </CenterDivComponent>    
-        
+ 
         </div>
-    </div>
+    
 
 </template>
 <script>
@@ -144,24 +53,28 @@ export default {
 }
 .container-first-image{
     padding-left: 0px;
+    border: 2px solid;
+    
     
 }
-.container-second{
-   
-   
-    padding-left: 17px;
-    padding-top: 11px;
+.anchor{
+    text-decoration: none;
 }
-.logo{
-    border-radius: 20px;
-}
-.upperDiv{
-   
-    width: 200px;
+.text-align-left{
+    text-align: left;
+    margin-left: 14px;
+    margin-bottom: 0px;
 
 }
-.lowerDiv{
-    
-    width: 200px;
+.container-second{
+padding-top: 16px;
+padding-left: 4px;
+}
+.right-part{
+    width: 215px;
+}
+
+.round-image{
+    border-radius: 1.5rem;
 }
 </style>
