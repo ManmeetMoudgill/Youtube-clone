@@ -29,5 +29,6 @@ export default {
     padding-bottom: 8px;
     border-top: 1px solid darkgray;
     border-bottom: 1px solid darkgray;
+    height: 5rem;
 }
 </style>

@@ -1,5 +1,5 @@
 <template>
-    <div class="container d-flex flex-wrap align-items-center ">
+    <div class="video">
         <slot></slot>
 
     </div>
@@ -12,5 +12,14 @@ export default {
 </script>
 
 <style scoped>
+.video{
+    float: left;
+    width:290px;
+    height: 200px;
+   
+    
+    margin: 15px;
+  
 
+}
 </style>
