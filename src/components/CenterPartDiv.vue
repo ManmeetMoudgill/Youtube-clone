@@ -3,9 +3,11 @@
     <div class="container">
         <CenterNavbar />
 
-<div class="d-flex divMain">
+
 
 <!-- first Line video -->
+<div class="d-flex divMain">
+
 <CenterDivComponent>
 <div class="div-top">
 <img class="image-top" src="../assets/CID.webp" alt="Cid New Episode">
@@ -72,7 +74,163 @@
 </CenterDivComponent> 
 
 
+
+
 </div> 
+<!-- secondLineDiv -->
+
+<div class="d-flex secondDivMain divMain">
+
+<CenterDivComponent>
+<div class="div-top">
+<img class="image-top" src="../assets/CID.webp" alt="Cid New Episode">
+</div>
+<div class="div-bottom">
+    <div class="bottom-left">
+     <img id="img" class="style-scope yt-img-shadow" alt="Avatar image" height="50"  src="https://yt3.ggpht.com/yti/ANoDKi6Q83GGUGLCthNtL56hyUE78X-IlTf0yxaKgA=s88-c-k-c0x00ffffff-no-rj-mo">
+    </div>
+   <div class="bottom-right">
+        <h6 class="text-dark text">Cid New Episode 20 july</h6>
+        <h6 class="text-grey margin-bottom">Cid New Episode 20 july</h6>
+        <h6 class="text-grey margin-top">2M Views       2 Hours ago</h6>
+    </div>
+</div>
+</CenterDivComponent> 
+
+
+<CenterDivComponent>
+<div class="div-top">
+<img class="image-top" src="../assets/React.webp" alt="Cid New Episode">
+</div>
+<div class="div-bottom">
+    <div class="bottom-left">
+     <img id="img" class="style-scope yt-img-shadow" alt="Avatar image" height="50"  src="https://yt3.ggpht.com/yti/ANoDKi6Q83GGUGLCthNtL56hyUE78X-IlTf0yxaKgA=s88-c-k-c0x00ffffff-no-rj-mo">
+    </div>
+   <div class="bottom-right">
+        <h6 class="text-dark text">React in One Video</h6>
+        <h6 class="text-grey margin-bottom">Sakshi</h6>
+        <h6 class="text-grey margin-top">2M Views       2 Hours ago</h6>
+    </div>
+</div>
+</CenterDivComponent> 
+
+<CenterDivComponent>
+<div class="div-top">
+<img class="image-top" src="../assets/tarak.webp" alt="Cid New Episode">
+</div>
+<div class="div-bottom">
+    <div class="bottom-left">
+     <img id="img" class="style-scope yt-img-shadow" alt="Avatar image" height="50"  src="https://yt3.ggpht.com/yti/ANoDKi6Q83GGUGLCthNtL56hyUE78X-IlTf0yxaKgA=s88-c-k-c0x00ffffff-no-rj-mo">
+    </div>
+   <div class="bottom-right">
+        <h6 class="text-dark text">T.K mehta K.O.C 20 july</h6>
+        <h6 class="text-grey margin-bottom">Sony Tv</h6>
+        <h6 class="text-grey margin-top">2M Views       2 Hours ago</h6>
+    </div>
+</div>
+</CenterDivComponent> 
+
+<CenterDivComponent>
+<div class="div-top">
+<img class="image-top" src="../assets/Suvidhruv.webp" alt="Cid New Episode">
+</div>
+<div class="div-bottom">
+    <div class="bottom-left">
+     <img id="img" class="style-scope yt-img-shadow" alt="Avatar image" height="50"  src="https://yt3.ggpht.com/yti/ANoDKi6Q83GGUGLCthNtL56hyUE78X-IlTf0yxaKgA=s88-c-k-c0x00ffffff-no-rj-mo">
+    </div>
+   <div class="bottom-right">
+        <h6 class="text-dark text">Met with an Accident</h6>
+        <h6 class="text-grey margin-bottom">SuvidaDhruv</h6>
+        <h6 class="text-grey margin-top">2M Views       2 Hours ago</h6>
+    </div>
+</div>
+</CenterDivComponent> 
+
+
+
+
+
+</div> 
+
+<!-- Third Line Videos here -->
+
+
+<div class="d-flex secondDivMain divMain">
+
+<CenterDivComponent>
+<div class="div-top">
+<img class="image-top" src="../assets/CID.webp" alt="Cid New Episode">
+</div>
+<div class="div-bottom">
+    <div class="bottom-left">
+     <img id="img" class="style-scope yt-img-shadow" alt="Avatar image" height="50"  src="https://yt3.ggpht.com/yti/ANoDKi6Q83GGUGLCthNtL56hyUE78X-IlTf0yxaKgA=s88-c-k-c0x00ffffff-no-rj-mo">
+    </div>
+   <div class="bottom-right">
+        <h6 class="text-dark text">Cid New Episode 20 july</h6>
+        <h6 class="text-grey margin-bottom">Cid New Episode 20 july</h6>
+        <h6 class="text-grey margin-top">2M Views       2 Hours ago</h6>
+    </div>
+</div>
+</CenterDivComponent> 
+
+
+<CenterDivComponent>
+<div class="div-top">
+<img class="image-top" src="../assets/React.webp" alt="Cid New Episode">
+</div>
+<div class="div-bottom">
+    <div class="bottom-left">
+     <img id="img" class="style-scope yt-img-shadow" alt="Avatar image" height="50"  src="https://yt3.ggpht.com/yti/ANoDKi6Q83GGUGLCthNtL56hyUE78X-IlTf0yxaKgA=s88-c-k-c0x00ffffff-no-rj-mo">
+    </div>
+   <div class="bottom-right">
+        <h6 class="text-dark text">React in One Video</h6>
+        <h6 class="text-grey margin-bottom">Sakshi</h6>
+        <h6 class="text-grey margin-top">2M Views       2 Hours ago</h6>
+    </div>
+</div>
+</CenterDivComponent> 
+
+<CenterDivComponent>
+<div class="div-top">
+<img class="image-top" src="../assets/tarak.webp" alt="Cid New Episode">
+</div>
+<div class="div-bottom">
+    <div class="bottom-left">
+     <img id="img" class="style-scope yt-img-shadow" alt="Avatar image" height="50"  src="https://yt3.ggpht.com/yti/ANoDKi6Q83GGUGLCthNtL56hyUE78X-IlTf0yxaKgA=s88-c-k-c0x00ffffff-no-rj-mo">
+    </div>
+   <div class="bottom-right">
+        <h6 class="text-dark text">T.K mehta K.O.C 20 july</h6>
+        <h6 class="text-grey margin-bottom">Sony Tv</h6>
+        <h6 class="text-grey margin-top">2M Views       2 Hours ago</h6>
+    </div>
+</div>
+</CenterDivComponent> 
+
+<CenterDivComponent>
+<div class="div-top">
+<img class="image-top" src="../assets/Suvidhruv.webp" alt="Cid New Episode">
+</div>
+<div class="div-bottom">
+    <div class="bottom-left">
+     <img id="img" class="style-scope yt-img-shadow" alt="Avatar image" height="50"  src="https://yt3.ggpht.com/yti/ANoDKi6Q83GGUGLCthNtL56hyUE78X-IlTf0yxaKgA=s88-c-k-c0x00ffffff-no-rj-mo">
+    </div>
+   <div class="bottom-right">
+        <h6 class="text-dark text">Met with an Accident</h6>
+        <h6 class="text-grey margin-bottom">SuvidaDhruv</h6>
+        <h6 class="text-grey margin-top">2M Views       2 Hours ago</h6>
+    </div>
+</div>
+</CenterDivComponent> 
+
+
+
+
+
+</div> 
+
+
+
+<!-- Next is close div  -->
 </div>
     
 
@@ -94,7 +252,9 @@ export default {
     text-align: left;
     padding: 0px 30px;
 }
-
+.secondDivMain{
+    margin-top: 4.5rem;
+}
 
 .image-top{
     max-width: 290px;
