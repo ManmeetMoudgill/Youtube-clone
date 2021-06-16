@@ -1,5 +1,5 @@
 <template>
-    <div class="container-fluid flex-wrap bord-div d-flex justify-content-between my-1 ">
+    <div class="container-fluid  bord-div d-flex justify-content-between my-1 ">
 <hr class="lined" >
   <div class="container-fluid d-flex flex-wrap justify-content-between align-items-center">
        <button class="btn-lg btn-light border-radius-sm">American Idol</button>
